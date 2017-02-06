@@ -1,0 +1,1 @@
+This is my react boiler plate which supports server side rendering, eslint, docs, browserify, gulp
